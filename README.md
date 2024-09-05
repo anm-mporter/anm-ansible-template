@@ -1,6 +1,6 @@
 # ANM Ansible Template
 
-This is a simple template for ansible projects. To use it cone this repo and DELETE the .git folder. Then run the following commands:
+This is a simple template for ansible projects. To use it clone this repo and DELETE the .git folder. Then run the following commands:
 
 ```bash
 git init
